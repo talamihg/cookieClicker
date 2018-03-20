@@ -3,7 +3,7 @@ var ratios = [0,0,0,0,0,0,0,0,0,0,0,0,0,0];
 
 
 /**
-*   Get the current game's products cost of Cookies Per Second
+*   Get the current game product's cost of Cookies Per Second
 */
 function get_price_ratios(){
 
